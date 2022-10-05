@@ -1,0 +1,36 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button {
+    font-size: large;
+    float: right;
+}
+
+.Header {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h2  {
+    text-align: center;
+    font-size: xxx-large;
+}
+
+h3 {
+    text-align: center;
+    font-size: xx-large;
+}
+
+h4 {
+    font-size: x-large;
+}
+
+    .band {
+        font-style: italic;
+    }
+
+
+
